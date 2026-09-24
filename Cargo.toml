@@ -1,0 +1,8 @@
+[package]
+name = "runtime-lab"
+version = "0.1.0"
+edition = "2021"
+description = "Small runtime and automation experiments."
+license = "MIT"
+
+[dependencies]
